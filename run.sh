@@ -1,1 +1,2 @@
-#h hola
+#h
+echo "hola"
